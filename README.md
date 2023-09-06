@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesmith445 / Cristian Quiñones
 - 👀 I’m interested in Computer Programming, I like solving Problems and i like to make an application.
-- 🌱 I’m currently learning PHP and Javascript
+- 🌱 I’m currently learning PHP, Laravel and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: dark4ken@gmail.com / FB: Lee Gee
 
